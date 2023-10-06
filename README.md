@@ -1,6 +1,6 @@
 # Hi there, I'm Howard! 👋
-🌱 I’m currently learning C# and Java
-📫 How to reach me: howard.hyca@gmail.com
+<br>🌱 I’m currently learning C# and Java</br>
+<br>📫 How to reach me: howard.hyca@gmail.com</br>
 <!--
 **howardhokyin/howardhokyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
