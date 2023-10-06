@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Howard! 👋
 🌱 I’m currently learning C# and Java
 📫 How to reach me: howard.hyca@gmail.com
 <!--
