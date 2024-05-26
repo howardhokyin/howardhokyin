@@ -1,6 +1,6 @@
 # Hi there, I'm Howard! 👋
 <br>🌱 Graduated With Diploma in Information Technology, Software Development at SAIT</br>
-<br>⚡ Skill: C#, Java, JavaScript, Tailwind, React, Nextjs, HTML, CSS</br>
+<br>⚡ Skill: C#, Java, JavaScript, Tailwind CSS, React, Nextjs, HTML, CSS</br>
 <br>📫 How to reach me: howard.hyca@gmail.com</br>
 <br>🔭 I’m currently working on Point of sales system for restaurant and try to make on web application</br>
 
