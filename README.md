@@ -1,5 +1,5 @@
 # Hi there, I'm Howard! 👋
-<br>🌱 Software Engineer (Web Dev)
+<br>🌱 Software Engineer (Web Dev)</br>
 <br>⚡ Skill: C#, Java, JavaScript, Tailwind CSS, React, Nextjs, HTML, CSS</br>
 <br>📫 How to reach me: howard.hyca@gmail.com</br>
 <!--
