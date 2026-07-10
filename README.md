@@ -2,6 +2,8 @@
 <br>🌱 Software Engineer (Web Dev)</br>
 <br>⚡ Skill: C#, Java, JavaScript, Tailwind CSS, React, Nextjs, HTML, CSS</br>
 <br>📫 How to reach me: howard.hyca@gmail.com</br>
+
+<br>✨ "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." — Steve Jobs </br>
 <!--
 <br>🔭 I’m currently working on Point of sales system for restaurant and try to make on web application</br>
 -->
